@@ -1,5 +1,5 @@
 Name: hello-world-rpm
-Version: 0.0.1
+Version: 0.0
 Release: 1
 Summary: "hello world obs testing project"
 License: BSD
@@ -14,5 +14,6 @@ hello world obs testing project
 %prep
 %setup
 %build
+
 %install
 %files
