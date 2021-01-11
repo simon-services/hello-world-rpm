@@ -1,4 +1,4 @@
-Name: testpkg
+Name: hello-world
 Version: 0.0.1
 Release: 1
 Summary: "hello world obs testing project"
