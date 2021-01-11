@@ -1,7 +1,7 @@
-Name: hello world
+Name: testpkg
 Version: 0.0.1
 Release: 1
-Summary: hello world obs testing project
+Summary: "hello world obs testing project"
 License: BSD
 URL: https://github.com/simon-services/hello-world-rpm.git
 Source0: %{name}.tar.gz
@@ -16,4 +16,3 @@ hello world obs testing project
 %build
 %install
 %files
-%defattr
