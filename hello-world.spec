@@ -1,4 +1,4 @@
-Name: hello-world
+Name: hello-world-rpm
 Version: 0.0.1
 Release: 1
 Summary: "hello world obs testing project"
